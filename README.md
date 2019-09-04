@@ -10,5 +10,5 @@ Repository with AI codes for Object Detection:
 Source of dataset: https://www.robots.ox.ac.uk/~vgg/data/pets/
 
 
-1. Dogs_vs_Cats_Localization_functional.ipynb contains code for
+Dogs_vs_Cats_Localization_functional.ipynb contains code for
   - classifying a single animal (dog or cat) on an image and drawing a bouding box around it
