@@ -2,9 +2,9 @@
 
 Repository with AI codes for Object Detection:
 
-1) Image-Classification (CNN, single object)
+(to be yet added) 1) Image-Classification (CNN, single object)
 2) Object-Localization (CNN,  single object, single bounding box)
-3) Object-Detection (CNN, multiple objects, multiple bounding boxes)
+(to be yet added) 3) Object-Detection (CNN, multiple objects, multiple bounding boxes)
 
 
 Source of dataset: https://www.robots.ox.ac.uk/~vgg/data/pets/
