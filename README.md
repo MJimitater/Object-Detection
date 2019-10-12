@@ -2,11 +2,11 @@
 
 Repository with AI codes for Object Detection:
 
-(to be yet added) 1) Image-Classification (CNN, single object)
+1) Image-Classification (CNN, single object) (to be yet added)
 
 2) Object-Localization (CNN,  single object, single bounding box)
 
-(to be yet added) 3) Object-Detection (CNN, multiple objects, multiple bounding boxes)
+3) Object-Detection (CNN, multiple objects, multiple bounding boxes) (to be yet added)
 
 ---------------------------------------------------
 
