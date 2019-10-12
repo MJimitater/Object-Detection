@@ -30,3 +30,5 @@ Source of dogs and cats photo dataset: https://www.robots.ox.ac.uk/~vgg/data/pet
 
 Make sure to edit the pwd for the data(sub)sets
 
+Run code
+
