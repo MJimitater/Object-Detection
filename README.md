@@ -8,6 +8,8 @@ Repository with AI codes for Object Detection:
 
 (to be yet added) 3) Object-Detection (CNN, multiple objects, multiple bounding boxes)
 
+---------------------------------------------------
+
 
 Dogs_vs_Cats_Localization_functional.ipynb contains code for
   - classifying a single animal (dog or cat) on an image and drawing a bouding box around it
