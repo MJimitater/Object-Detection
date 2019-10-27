@@ -1,4 +1,4 @@
-# Object-Detection
+# object-detection
 
 Repository with AI codes for Object Detection:
 
