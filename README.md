@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # object-detection_dogs_vs_cats
+=======
+# object-detection
+>>>>>>> 9aafd31b18a1e11c798bea475901698d427177e0
 
 Repository with code for object localization:
 
