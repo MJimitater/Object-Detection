@@ -1,27 +1,21 @@
-# Object-Detection
+# object-detection_dogs_vs_cats
 
-Repository with AI codes for Object Detection:
+Repository with code for object localization:
 
-1) Image-Classification (CNN, single object) (to be yet added)
-
-2) Object-Localization (CNN,  single object, single bounding box)
-
-3) Object-Detection (CNN, multiple objects, multiple bounding boxes) (to be yet added)
+Object localization is defined as a CNN, classifying a single object and drawing a single bounding box around that object
 
 ---------------------------------------------------
 
 
 Dogs_vs_Cats_Localization_functional.ipynb contains code for
-  - classifying a single animal (dog or cat) on an image and drawing a bouding box around it
+  - classifying a single animal (dog or cat) in an image and drawing a bouding box around it
   
   
 ## Installation
 
 Prerequisites:
 Jupyter-Notebook
-Check import list in preamble of Dogs_vs_Cats_Localization_functional.ipynb for packages needed
-
-
+Check which packages are imported in Dogs_vs_Cats_Localization_functional.ipynb for needed packages
 
 Download Dogs_vs_Cats_Localization_functional.ipynb 
 
