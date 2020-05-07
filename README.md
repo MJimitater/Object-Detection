@@ -26,7 +26,7 @@ Download Dogs_vs_Cats_Localization_functional.ipynb
 Download dataset:
 Source of dogs and cats photo dataset: https://www.robots.ox.ac.uk/~vgg/data/pets/
 
-**Careful**: I noticed, images and labels might be corrupted in its chronology!
+**Caution**: I noticed, images and labels might be corrupted in its chronology!
 
 Make sure to edit the pwd for the data(sub)sets
 
