@@ -1,2 +1,4 @@
 **/object-classification/data
 **/object-classification/test
+
+*.vscode
