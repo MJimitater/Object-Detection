@@ -17,9 +17,9 @@ Object localization is defined as a CNN, classifying a single object among sever
 1. Download DogsVsCats.ipynb.ipynb
 2. Download predict.ipynb
 3. either download CNN_model.h5 to spare training and predict any cat or dog image with predict.ipynb
-4. or download dataset: the source of the image datasets: https://www.kaggle.com/
-5. Make sure to edit the pwd for the data(sub)sets
-6. Run code
+ *or* download dataset for own training. The source of the image datasets: https://www.kaggle.com/
+4. Make sure to edit the pwd for the data(sub)sets
+5. Run code
 
 
 
@@ -42,7 +42,7 @@ Object localization is defined as a CNN, classifying a single object among sever
 ### Instructions:
 
 1. Download Dogs_vs_Cats_Localization_functional.ipynb 
-2. Download dataset: the source of the image datasets: https://www.robots.ox.ac.uk/~vgg/data/pets/
+2. Download dataset. The source of the image datasets: https://www.robots.ox.ac.uk/~vgg/data/pets/
 **Caution**: I noticed, images and labels might be corrupted in its chronology!
 3. Make sure to edit the pwd for the data(sub)sets
 4. Run code 
