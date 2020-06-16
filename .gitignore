@@ -1,4 +1,7 @@
 **/object-classification/data
 **/object-classification/test
 
+**/object-localization/kicked-out_images
+**/object-localization/selected_dataset
+
 *.vscode
